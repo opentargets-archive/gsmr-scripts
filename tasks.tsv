@@ -1,0 +1,2 @@
+--env BATCHID   --input GCTA    --input-recursive UK10K --input-recursive PROTEINS    --input-recursive OUTCOMES  --output-recursive OUTPUT
+1 gs://genetics-portal-analysis/mohd/gcta/gcta64  gs://genetics-portal-analysis/mohd/dsub-test/UK10K_ref_panel    gs://genetics-portal-analysis/mohd/dsub-test/SUN2018_full_harmonised_gsmr_v2    gs://genetics-portal-analysis/mohd/dsub-test/outcomes-gsmr-formatted  gs://genetics-portal-analysis/mohd/dsub-test/output/1
